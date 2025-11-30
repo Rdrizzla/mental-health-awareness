@@ -3,8 +3,16 @@ body {
     padding: 0;
 }
 
-header {
-    background-color:antiquewhite
+/* Global Styles */
+:root {
+   --primary-color: #dfecf5; /*Egg shell white*/
+   --secondary-color: #9ad1f5; /*Lite blue*/
+}
+
+#header {
+    background-color: var(--primary-color) !important;
+    min-height: 20vh;
+    border: 5px solid black;
 }
 
 h1 {
@@ -13,4 +21,16 @@ h1 {
 
 #jumbo-mini-text {
     color: blue;
+}
+
+#main {
+    background-color: var(--primary-color) !important;
+    min-height: 50vh;
+    border: 5px solid black;
+}
+
+#footer {
+    background-color: var(--primary-color) !important;
+    min-height: 30vh;
+    border: 5px solid black;
 }

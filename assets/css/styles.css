@@ -33,7 +33,7 @@ header h1 {
 
 #footer {
     background-color: var(--secondary-color);
-    height: 30vh;
+    min-height: 30vh;
 }
 
 /* Carousel Styling */

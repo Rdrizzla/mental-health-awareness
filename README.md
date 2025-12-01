@@ -8,10 +8,9 @@ Mental Health Awareness is a site that hopes to be able to supply users with som
 
 The main features of the website project, Mental Health Awareness, are a header with icons, a card layout with tips, a carousel, and then finally a footer filled with inspirational quotes.
 
-- __Navigation Bar__
+- __Header__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - The header includes a H1, H2, and font awesome icons that to the left and right that align with the website's content.
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 

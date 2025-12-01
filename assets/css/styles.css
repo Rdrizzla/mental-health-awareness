@@ -11,8 +11,7 @@ body {
 
 #header {
     background-color: var(--secondary-color) !important;
-    min-height: 20vh;
-    border: 5px solid black;
+    min-height: 18vh;
 }
 
 h1 {
@@ -26,11 +25,9 @@ h1 {
 #main {
     background-color: var(--primary-color) !important;
     min-height: 50vh;
-    border: 5px solid black;
 }
 
 #footer {
     background-color: var(--secondary-color) !important;
     min-height: 30vh;
-    border: 5px solid black;
 }

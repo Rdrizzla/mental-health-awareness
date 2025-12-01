@@ -1,25 +1,25 @@
+/*Font import*/
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playwrite+NZ+Guides&display=swap');
+
 body {
     margin: 0;
     padding: 0;
+    font-family: var(--primary-font)
 }
 
 /* Global Styles */
 :root {
-   --primary-color: #dfecf5; /*Egg shell white*/
-   --secondary-color: #9ad1f5; /*Lite blue*/
+    --primary-color: #dfecf5;
+    /*Egg shell white*/
+    --secondary-color: #9ad1f5;
+    /*Lite blue*/
+    --primary-font: "Asap Condensed", sans-serif;
+    --secondary-font: "Playwrite NZ Guides", sans-serif;
 }
 
 #header {
     background-color: var(--secondary-color) !important;
     min-height: 18vh;
-}
-
-h1 {
-    color: #ae34eb;
-}
-
-#jumbo-mini-text {
-    color: blue;
 }
 
 #main {

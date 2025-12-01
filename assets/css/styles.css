@@ -31,3 +31,14 @@ body {
     background-color: var(--secondary-color) !important;
     min-height: 30vh;
 }
+
+/* Carousel Styling */
+.c-item {
+    height: 100vh !important;
+}
+
+.c-img {
+    height: 100% !important;
+    object-fit: cover !important;
+    filter: brightness(0.6) !important;
+}

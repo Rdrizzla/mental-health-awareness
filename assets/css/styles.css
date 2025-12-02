@@ -36,6 +36,8 @@ header h1 {
     min-height: 30vh;
 }
 
+/*Style for card buttons*/
+
 .card-buttons {
     color: greenyellow;
 }

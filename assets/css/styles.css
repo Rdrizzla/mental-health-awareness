@@ -16,6 +16,10 @@ body {
     font-family: var(--primary-font);
 }
 
+body p {
+    font-size: 16px;
+}
+
 #header {
     background-color: var(--secondary-color);
     min-height: 18vh;

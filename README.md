@@ -12,7 +12,7 @@ The main features of the website project, Mental Health Awareness, are a header 
 
   - The header includes a H1, H2, and font awesome icons that to the left and right that align with the website's content.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Header](https://github.com/Rdrizzla/mental-health-awareness/blob/main/docs/images/heading.png?raw=true)
 
 - __The landing page image__
 

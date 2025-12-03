@@ -57,3 +57,9 @@ The live link can be found here - https://rdrizzla.github.io/mental-health-aware
 ## Credits & Media
 
 All images evidenced within the website were produced by AI (Nano Banana).
+
+## Wireframes
+
+Evidenced below are the wireframes I used to plan the layout of the website.
+
+

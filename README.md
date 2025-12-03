@@ -62,4 +62,6 @@ All images evidenced within the website were produced by AI (Nano Banana).
 
 Evidenced below are the wireframes I used to plan the layout of the website.
 
+![Wireframe Window](https://github.com/Rdrizzla/mental-health-awareness/blob/main/docs/images/wireframe-window.png?raw=true)
 
+![Wireframe Phone](https://github.com/Rdrizzla/mental-health-awareness/blob/main/docs/images/wireframe-phone.png?raw=true)
